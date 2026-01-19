@@ -7,4 +7,4 @@ for i in arr:
         first_smallest=i
     elif i<second_smallest and i!=first_smallest: #else
         second_smallest=i
-print(second_smallest)
+print(second_smallest)#print
