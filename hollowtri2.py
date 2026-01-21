@@ -5,4 +5,4 @@ for i in range(0,n):
             print("*",end=" ")
         else:
             print(" ",end=" ")    
-    print() #print methods
+    print() #print
