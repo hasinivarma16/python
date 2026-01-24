@@ -1,4 +1,4 @@
-arr=[50,30,23,12,9,21]
+arr=[50,30,23,12,9,21]#array
 k=int(input())
 first_lar=float('-inf')
 second_lar=float('-inf')
