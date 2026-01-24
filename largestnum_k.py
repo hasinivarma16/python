@@ -13,4 +13,4 @@ for num in arr:
         second_lar = num
     elif num > third_lar:
         third_lar = num
-print(third_lar)
+print(third_lar) #print result
