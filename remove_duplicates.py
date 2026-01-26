@@ -1,3 +1,4 @@
+#remove duplicates from a list using two pointers
 num=[1,1,2,2,3]
 i=0
 j=i+1
