@@ -3,10 +3,9 @@ even=[]
 odd=[]  
 sum_even=0
 sum_odd=0
-for i in arr: #loop
+for i in arr: 
     if i%2==0:
-        sum_even+=i
-        
+        sum_even+=i #condition
     if i%2!=0:
         sum_odd+=i
 even.append(sum_even)#adds even numbers
