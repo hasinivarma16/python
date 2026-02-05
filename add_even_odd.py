@@ -3,7 +3,7 @@ even=[]
 odd=[]  
 sum_even=0
 sum_odd=0
-for i in arr:
+for i in arr: #loop
     if i%2==0:
         sum_even+=i
         
