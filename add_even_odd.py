@@ -9,6 +9,6 @@ for i in arr:
         
     if i%2!=0:
         sum_odd+=i
-even.append(sum_even)
+even.append(sum_even)#adds even numbers
 odd.append(sum_odd)
 print(even+odd)
