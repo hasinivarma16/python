@@ -1,6 +1,6 @@
 #zeros at last
 arr=[2,0,3,5,0,0,10,11]
-first_arr=[]
+first_arr=[]#list1
 second_arr=[]
 for i in arr:
     if i==0:
