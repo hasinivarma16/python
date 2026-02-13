@@ -1,4 +1,4 @@
-#median of a list
+
 arr=[2,3,4,7,8,9]
 len_arr=len(arr)
 if len_arr%2==0:
