@@ -5,4 +5,4 @@ for i in a:
     sum+= i
 for j in b:
     sum+= j
-print(sum)
+print(sum) #gives sum
