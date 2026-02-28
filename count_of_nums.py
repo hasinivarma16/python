@@ -5,4 +5,4 @@ for i in arr:
         dic[i]+=1
     else:
         dic[i]=1    
-print(dic)        
+print(dic)  #print      
