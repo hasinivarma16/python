@@ -12,4 +12,4 @@ while left<=right:
     elif arr[mid]==target:
         ans=mid
         right=mid-1    #ele on left side so -1 ,#for last occurrence right=mid+1
-print("first occ:",ans)
+print("first occ:",ans) #print occur
