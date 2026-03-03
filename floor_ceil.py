@@ -15,5 +15,4 @@ while left<=right:
     if arr[mid]>=target:
         ceil = arr[mid]      
         right = mid - 1
-print("floor:",floor)
-print("ceil:",ceil)
+print([floor,ceil])
