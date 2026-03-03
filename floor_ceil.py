@@ -1,4 +1,4 @@
-arr=[10,20,30,40,50]
+arr=[10,20,25,30,40,50]
 target=25
 left=0 #low
 right=len(arr)-1 #high
