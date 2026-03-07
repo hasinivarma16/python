@@ -5,7 +5,7 @@ right=len(arr)-1
 ans=-1  #not found, so it stores element
 while left<=right:
     mid=(left+right)//2   #becoz for every loop mid changes/updates
-    if arr[mid]<target:
+    if arr[mid]<target:      #nested loop
         left=mid+1
     elif arr[mid]>target:
         right=mid-1
